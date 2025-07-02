@@ -1,2 +1,2 @@
 # exerc-cios-java
-Exercícios sobre Matrizes e Vetores
+Exercícios sobre Vetores
